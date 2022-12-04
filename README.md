@@ -1,5 +1,7 @@
 - ✨ Think twice, code once...
 
+![](https://komarev.com/ghpvc/?username=ning2510&color=brightgreen&label=Visitors)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ning2510&show_icons=true&theme=radical)
 
 
